@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Keerthan Devineni",
+    "description": "A Business Analytics graduate from the University of Illinois at Chicago with 4+ years of experience in data analysis and business intelligence. I have worked as a Business Intelligence Analyst at Pharma Logistics, Penske, and United Business Mail, with foundational experience from IYKA Healthcare. My expertise includes developing dashboards, automating data workflows, optimizing data pipelines, and applying predictive analytics to drive actionable insights. I'm passionate about using data to help organizations improve efficiency and foster growth",
+    "image": "Keerthan.jpg",
+    "bio": "Hello, I'm Keerthan—a passionate Business Analyst dedicated to transforming complex data into meaningful insights that drive impactful business decisions. With over 4 years of experience in business intelligence and analytics, I specialize in creating user-friendly dashboards, optimizing data workflows, and delivering predictive analytics solutions. Originally from India and now based in the U.S., I bring a global perspective to problem-solving. My commitment to leveraging data for strategic success is complemented by a hands-on approach to innovation and continuous improvement.",
+    "contactmessage": "Get in touch for further details",
+    "email": "Keerthansatya99d@gmail.com",
+    "phone": "+1 (331) 757-9321",
+    "address": {
+      "country": "Chicago, IL (Open to Relocation)"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1dKXBjFO6Jk4wL44PVjRrmXInChXUrqUK/view",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/satyadevineni/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Jr-Stifler",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Illinois at Chicago ",
+        "degree": "Master of Science in Business Analytics",
+        "graduated": "December 2023",
+        "description": "Earning a Master's degree in Business Analytics provided me with a deep understanding of data analysis, business intelligence, and predictive modeling. This academic journey honed my skills in leveraging data to drive strategic decision-making, developing scalable analytics solutions, and creating actionable insights. It also fueled my passion for empowering organizations to achieve operational excellence through data-driven strategies."
+      },
+      {
+        "school": "VIT, Vellore",
+        "degree": "Bachelor's in Computer Science",
+        "graduated": "June 2020",
+        "description": "Pursuing a Bachelor's in Computer Science at VIT, Vellore, allowed me to build a strong foundation in programming, data structures, and system security. This academic journey introduced me to the fundamentals of computer science and sparked my interest in leveraging technology to develop innovative solutions and solve real-world challenges."
+      }
+    ],
+    "work": [
+      {
+        "company": "Pharma Logistics",
+        "title": "Business Intelligence Analyst",
+        "years": "Feb 2024 – Present",
+        "description": "Developing data-driven solutions and interactive dashboards to enhance decision-making and operational efficiency."
+      },
+      {
+        "company": "Penske (Short term Contract)",
+        "title": "Data Analyst",
+        "years": "Jan 2024 – Apr 2024",
+        "description": "Analyzed transportation data and built visualizations to optimize routes, improving delivery times and reducing costs."
+      },
+      {
+        "company": "United Business Mail",
+        "title": "Business Intelligence Analyst",
+        "years": "Jan 2023 – Jan 2024",
+        "description": "Designed dashboards and conducted data analysis to enhance business performance and improve decision-making processes."
+      },
+      {
+        "company": "IYKA Healthcare",
+        "title": "Data Analytics Intern",
+        "years": "Aug 2022 – Dec 2022",
+        "description": "Engineered a machine learning model for mental health prediction and performed data analysis to uncover patterns for early detection of stress, anxiety, and depression."
+      },
+      {
+        "company": "ATOS",
+        "title": "Data Analytics Trainee",
+        "years": "Dec 2019 – July 2021",
+        "description": "Analyzed large datasets and built dynamic dashboards to improve business insights and optimize data processing workflows, contributing to improved operational efficiency."
+      }
+    ],
+    "skills": [
+      {
+        "name": "• Languages: Python, R, SQL, PL/SQL, Shell, Bash."
+      },
+      {
+        "name": "• Databases: Oracle, MySQL, PostgreSQL, MongoDB, NoSQL, Snowflake, SQL Server."
+      },
+      {
+        "name": "• Visualization tools: Tableau, Power BI, Sigma, Excel, Matplotlib."
+      },
+      {
+        "name": "• Data Technologies: Cloudera, Databricks, HDFS, Sqoop, Hive, Impala, Apache Spark."
+      },
+      {
+        "name": "• Methodologies & Deployment: Agile, Scrum, CI/CD, Git, Docker."
+      },
+      {
+        "name": "• Cloud Technologies: AWS, Azure, Snowflake, Google Cloud Platform (GCP)."
+      },
+      {
+        "name": "• Data Tools: DBT, Sigma, Excel, PowerBI, Jupyter, PyCharm."
+      }
+    ] 
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Heart Attack Detection Using KNN & Coma Patient Monitoring System",
+        "category": "Technologies Used: Python, Scikit-learn, AWS, IoT, Naive Bayes",
+        "image": "Project1.png"
+      },
+      {
+        "title": "Smart Parking System",
+        "category": "Technologies Used: IoT, Data Analysis, Python, MATLAB",
+        "image": "Project2.webp"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Keerthan is an exceptional analyst with a deep understanding of business intelligence and data analytics. His ability to turn complex data into actionable insights has greatly benefited our projects. He is highly collaborative and always approaches problems with a positive mindset. Keerthan's technical expertise combined with his strong communication skills makes him an invaluable asset to any team.",
+        "user": "Rajesh Kumar - Data Analytics Lead at Pharma Logistics"
+      }
+    ]
+  }  
+}
